@@ -1,2 +1,2 @@
 # House_sales_model
-Data Science project: House Sales model
+Data Science fun project: House Sales model
